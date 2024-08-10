@@ -1,0 +1,72 @@
+
+.wrapper{
+   display: flex;
+   gap: 250px;
+}
+.wraper__text{
+    margin-top:50px;
+    span{
+        font-family: Lilita One;
+        font-weight: 700;
+        font-size: 64px;
+        text-align: left;
+        line-height: 73.15px;
+    }
+    p{
+        font-family: Lalezar;
+        font-weight: 400;
+        font-size: 96px;
+        text-align: left;
+        line-height: 150.43px;
+        color: #FF0000;
+    }
+    .btn{
+        width: 183px;
+        top: 799px;
+        left: 115px;
+        gap: 0px;
+        border-radius: 20px;
+        height: 60px;
+        margin-top: 40px;
+        border: none;
+        background: #FF0000;
+        font-family: Lalezar;
+        font-weight: 400;
+        line-height: 37.61px;
+        font-size: 24px;
+        color: white;
+    }
+    .wrapper__img{
+        width: 518px;
+        top: 322px;
+        left: 868px;
+        height: 544px;
+    }
+}
+
+.text__card{
+    width: 800px;
+    text-align: center;
+    margin: 0 auto;
+    p{
+    font-family: Lalezar;
+    margin-top: 350px;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 60px;
+    color: #D62828;
+    margin-bottom: 60px;
+    }
+    span{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 19.36px;
+    }
+}
+
+.cardd__img{
+    margin-left: 150px;
+    margin-top:90px;
+    
+}

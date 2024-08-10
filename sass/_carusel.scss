@@ -1,0 +1,35 @@
+
+.carusel{
+     gap: 45px;
+    display: flex;
+    overflow: auto;
+    margin-top: 300px;
+    &::-webkit-scrollbar{
+        height: 0;
+        background: #5f6060;
+    }
+    .carusel__card{
+        border-radius:10px;
+        height: 421px;
+        background: #EDF2F4;
+    }
+    .logo{
+        width: 70px;
+        height: 40px;
+        border-radius: 20px;
+        height: 27px;
+        background: #D9D9D9;
+    }
+    img{
+        height: 309px;
+    }
+    p{
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 16.94px;
+        text-align: left;
+        font-family: Inter;
+        margin-top: 50px;
+        padding: 10px;
+    }
+}
